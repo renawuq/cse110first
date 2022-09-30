@@ -2,7 +2,8 @@
 ![me](image.png)
 ## **About Me**
 ### **As a person...**
-Hello, My name is *Rena* and I am a student from *University Of California, San Diego* <sub>(UCSD)</sub>. My major is *Computer Science* and I enjoy coding in C++ and Python. I like milk tea a lot and I will watch horror movie in the free time. Currently, I favourite movie is "The Texas Chain Saw Massacre".
+Hello, My name is *Rena* and I am a student from *University Of California, San Diego* <sub>(UCSD)</sub>. My major is *Computer Science* and I enjoy coding in C++ and Python. I like milk tea a lot and I will watch horror movie in the free time. 
+> Currently, I favourite movie is "The Texas Chain Saw Massacre".
 
 
 ### **As a programmer...**
